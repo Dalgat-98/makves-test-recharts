@@ -1,17 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Данная программа выводит графики по предварительным значениям и в зависимости от задаваемого значения Z-score, окрашивает графики в красный цвет
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+Скачайте проект
+git clone https://github.com/Dalgat-98/calculator.git
+
+Установите зависимости
+npm i
+
+Запустите проект
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
